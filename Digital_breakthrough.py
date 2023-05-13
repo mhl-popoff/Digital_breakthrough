@@ -29,3 +29,4 @@ turtle.done()
 
 print('Hello world')
 print('Hello Mikle!')
+print('hello sophi!')
