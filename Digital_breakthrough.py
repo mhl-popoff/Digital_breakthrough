@@ -28,3 +28,4 @@ tree(100)
 turtle.done()
 
 print('Hello world')
+print('Hello Mikle!')
