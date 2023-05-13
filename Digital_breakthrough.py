@@ -26,3 +26,5 @@ def tree(i):
         t.backward(i)
 tree(100)
 turtle.done()
+
+print('Hello world')
